@@ -1,0 +1,11 @@
+cat
+dog
+lion
+hammer
+screwdriver
+saw
+tiger
+bear
+elephant
+drill
+wrench
