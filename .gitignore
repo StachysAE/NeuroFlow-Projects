@@ -1,0 +1,23 @@
+# Virtual environments
+venv/
+*/venv/
+
+# PyTorch and other large libraries
+*.dll
+*.lib
+
+# Machine learning model files
+*.pkl
+*.h5
+*.ckpt
+*.onnx
+*.pt
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
