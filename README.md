@@ -30,7 +30,7 @@ This repository is a sandbox where I:
 ## Notes
 
 - Large files like `.pkl` models and dataset folders have been excluded from this repo (see `.gitignore`)
-- fMRI datasets (e.g., `ds004301`) are referenced but not stored here — they can be downloaded from [OpenNeuro](https://openneuro.org/)
+- fMRI dataset `ds004301` is referenced but not stored here — it can be downloaded from [OpenNeuro Dataset]([https://openneuro.org/](https://openneuro.org/datasets/ds004301/versions/1.0.2/download))
 - Virtual environments and compiled libraries are excluded from version control
 
 ---
