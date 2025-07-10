@@ -1,4 +1,4 @@
-# Simulated EEG Signal Visualizer
+# MindWave or Muse Signal Reader
 
 A beginner-friendly tool to generate and visualize synthetic EEG signals for educational and prototyping purposes. It helps build an intuitive understanding of brainwave behavior before working with real neural data.
 
