@@ -28,14 +28,15 @@ This project is a simple visualization tool to simulate and display EEG signals 
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Navigate to this folder
 3. Run the Jupyter notebook or Python script:
    ```bash
-   python signal_generator.py
-  
+   python signal_generator.py  
+
+---
 
 ## Note
 This is a conceptual demo using synthetic signals — not medical or neuroscientific data.
