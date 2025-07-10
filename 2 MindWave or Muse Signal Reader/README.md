@@ -36,10 +36,6 @@ A beginner-friendly tool to generate and visualize synthetic EEG signals for edu
 
    ```bash
    python signal_generator.py
-Or open and run the Jupyter notebook:
-   ```bash
-  jupyter notebook simulated_eeg_visualizer.ipynb
-```
 
 ---
 
